@@ -720,11 +720,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 7dd60345-6c78-41b2-974c-f2e5902e12dd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: UnityMultiplayer
+  organizationId: marciocdb
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
